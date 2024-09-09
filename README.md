@@ -8,7 +8,8 @@ and the iPython notebooks `chymograph_log_time_rho0.03.ipynb`, `chymograph_log_t
 and `coarsening_analysis.ipynb` (Fig. 2 (d)).
 
 The Mathematica-notebooks to Fig. 3.(c, d) can be found in `MinimalKSModel-logGrowth-ICSplitting-pub.nb` and `continuation-setup.nb`. 
-The setup-notebook must be executed before the other notebook in the same Kernel.
+The setup-notebook must be in the same folder as `MinimalKSModel-logGrowth-ICSplitting-pub.nb`, 
+while the cells of the latter notebook have to be executed explicitly.
 
 The nullclines in Fig. S1 (A-C) are taken from notebooks `minimalModelNullcline.nb` (A), `volumeExclusionNullcline.nb` (B), `receptorBindingNullcline.nb` (C).
 
