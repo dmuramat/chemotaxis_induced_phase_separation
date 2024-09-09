@@ -10,8 +10,6 @@ and `coarsening_analysis.ipynb` (Fig. 2 (d)).
 The Mathematica notebooks to Fig. 3 (c, d) are `MinimalKSModel-logGrowth-ICSplitting-pub.nb` and `continuation-setup.nb`. 
 The setup notebook must be in the same folder as `MinimalKSModel-logGrowth-ICSplitting-pub.nb` and is executed automatically as the initialization cells of `MinimalKSModel-logGrowth-ICSplitting-pub.nb` are executed.
 
-The nullclines in Fig. S1 (A-C) are taken from notebooks `minimalModelNullcline.nb` (A), `volumeExclusionNullcline.nb` (B), `receptorBindingNullcline.nb` (C).
-
 ## COMSOL Simulations
 Simulations of the minimal Keller-Segel model are performed using the finite-element software COMSOL Multiphysics 
 and with the settings provided in the presented setup files. The simulations were performed using COMSOL 6.0.
