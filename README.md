@@ -3,8 +3,8 @@
 This repository contains the code for the project *Chemotaxis-induced phase separation* 
 by Henrik Weyer, David Muramatsu, and Erwin Frey. 
 
-The code for the numerical simulations and analysis presented in Fig. 2 are the COMSOL (`.mph`) setup files, 
-and the iPython notebooks `chymograph_log_time_rho0.03.ipynb`, `chymograph_log_time_rho0.03.ipynb` (Fig.2 (c)),
+For the coarsening simulations in Fig. 2, we provide the COMSOL (`.mph`) setup files.
+The analysis of these simulations was performed using the iPython notebooks `chymograph_log_time_rho0.03.ipynb`, `chymograph_log_time_rho0.03.ipynb` (Fig.2 (c)),
 and `coarsening_analysis.ipynb` (Fig. 2 (d)).
 
 The Mathematica notebooks to Fig. 3 (c, d) are `MinimalKSModel-logGrowth-ICSplitting-pub.nb` and `continuation-setup.nb`. 
