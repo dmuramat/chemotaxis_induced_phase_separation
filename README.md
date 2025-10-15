@@ -1,5 +1,7 @@
 # Chemotaxis-induced phase separation
 
+[![DOI](https://zenodo.org/badge/854740696.svg)](https://doi.org/10.5281/zenodo.17354470)
+
 This repository contains the code for the project *Chemotaxis-induced phase separation* 
 by Henrik Weyer, David Muramatsu, and Erwin Frey. 
 
